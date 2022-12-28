@@ -4,24 +4,24 @@
   "env": {
     "TOKEN": {
       "description": "Enter bot token.",
-      "value": ""
+      "value": "5793890668:AAG0Tl-27fOWdy5cfCDd7Zfwo5qaOAM_n6o"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "17983098"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "ee28199396e0925f1f44d945ac174f64"
     },
     "LOG_CHNL": {
       "description": "A channel or group ID to log user activities.",
-      "value": "",
+      "value": "-1001683878954",
       "required": false
     },
     "UPDTE_CHNL": {
       "description": "Channel username to work force sub! Bot should admin in ur chnl",
-      "value": "",
+      "value": "e7alat19871",
       "required": false
     },
     "USE_HEROKU": {
